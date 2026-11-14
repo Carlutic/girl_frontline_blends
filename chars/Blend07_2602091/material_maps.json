@@ -1,0 +1,48 @@
+{
+  "defaultPreset": "lobby",
+  "c_Liushih_slg_face_d.png": {
+    "normal": "maps/c_Liushih_slg_face_d_n.png"
+  },
+  "c_Liushih_slg_eye_d.png": {
+    "normal": "maps/c_Liushih_slg_eye_d_n.png"
+  },
+  "c_Liushih_slg_eyeblend.png": {
+    "normal": "maps/c_Liushih_slg_eyeblend_n.png"
+  },
+  "body_d.png": {
+    "normal": "maps/body_d_n.png"
+  },
+  "c_LiushihSSR0101_slg_cloth1_da.png": {
+    "normal": "maps/c_LiushihSSR0101_slg_cloth1_da_n.png"
+  },
+  "c_LiushihSSR0101_slg_P1_cloth1_d.png": {
+    "normal": "maps/c_LiushihSSR0101_slg_P1_cloth1_d_n.png"
+  },
+  "c_LiushihSSR0101_slg_cloth2_da.png": {
+    "normal": "maps/c_LiushihSSR0101_slg_cloth2_da_n.png"
+  },
+  "c_LiushihSSR0101_slg_cloth3_d.png": {
+    "normal": "maps/c_LiushihSSR0101_slg_cloth3_d_n.png"
+  },
+  "Huacs_d.png": {
+    "normal": "maps/Huacs_d_n.png"
+  },
+  "c_LiushihSSR01_slg_hair_d.png": {
+    "normal": "maps/c_LiushihSSR01_slg_hair_d_n.png"
+  },
+  "c_LiushihSSR0101_slg_Pearl_da.png": {
+    "normal": "maps/c_LiushihSSR0101_slg_Pearl_da_n.png"
+  },
+  "extra.png": {
+    "normal": "maps/extra_n.png"
+  },
+  "c_LiushihSSR0101_slg_P1_hand1_d.png": {
+    "normal": "maps/c_LiushihSSR0101_slg_P1_hand1_d_n.png"
+  },
+  "body_zhijia_d.png": {
+    "normal": "maps/body_zhijia_d_n.png"
+  },
+  "c_LiushihSSR0101_slg_P1_cloth2_da.png": {
+    "normal": "maps/c_LiushihSSR0101_slg_P1_cloth2_da_n.png"
+  }
+}

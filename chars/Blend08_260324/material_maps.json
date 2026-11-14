@@ -1,0 +1,45 @@
+{
+  "defaultPreset": "lobby",
+  "c_Dusevnyj_slg_face_d.png": {
+    "normal": "maps/c_Dusevnyj_slg_face_d_n.png"
+  },
+  "c_Dusevnyj_slg_eye_d.png": {
+    "normal": "maps/c_Dusevnyj_slg_eye_d_n.png"
+  },
+  "c_Dusevnyj_slg_eyeblend.png": {
+    "normal": "maps/c_Dusevnyj_slg_eyeblend_n.png"
+  },
+  "c_Dusevnyj_slg_hair_d.png": {
+    "normal": "maps/c_Dusevnyj_slg_hair_d_n.png"
+  },
+  "body_d.png": {
+    "normal": "maps/body_d_n.png"
+  },
+  "c_DusevnyjSSR0101_slg_cloth_d.png": {
+    "normal": "maps/c_DusevnyjSSR0101_slg_cloth_d_n.png"
+  },
+  "c_DusevnyjSSR0101_slg_cloth02_da.png": {
+    "normal": "maps/c_DusevnyjSSR0101_slg_cloth02_da_n.png"
+  },
+  "c_DusevnyjSSR0101_slg_weapon_d.png": {
+    "normal": "maps/c_DusevnyjSSR0101_slg_weapon_d_n.png"
+  },
+  "c_DusevnyjSSR0101_slg_P1_cloth1_d.png": {
+    "normal": "maps/c_DusevnyjSSR0101_slg_P1_cloth1_d_n.png"
+  },
+  "c_DusevnyjSSR0101_slg_weapon_gitter_d.png": {
+    "normal": "maps/c_DusevnyjSSR0101_slg_weapon_gitter_d_n.png"
+  },
+  "c_DusevnyjSSR0101_slg_P1_cloth2_d.png": {
+    "normal": "maps/c_DusevnyjSSR0101_slg_P1_cloth2_d_n.png"
+  },
+  "c_DusevnyjSSR0101_slg_P1_hip1_d.png": {
+    "normal": "maps/c_DusevnyjSSR0101_slg_P1_hip1_d_n.png"
+  },
+  "c_DusevnyjSSR0101_slg_P1_hip2_da.png": {
+    "normal": "maps/c_DusevnyjSSR0101_slg_P1_hip2_da_n.png"
+  },
+  "c_DusevnyjSSR0101_slg_P1_body_d.png": {
+    "normal": "maps/c_DusevnyjSSR0101_slg_P1_body_d_n.png"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "defaultPreset": "lobby",
+  "c_Helen_slg_face_d.png": {
+    "normal": "maps/c_Helen_slg_face_d_n.png"
+  },
+  "c_Helen_slg_shetou_d.png": {
+    "normal": "maps/c_Helen_slg_shetou_d_n.png"
+  },
+  "c_Helen_slg_eye_d.png": {
+    "normal": "maps/c_Helen_slg_eye_d_n.png"
+  },
+  "c_Helen_slg_eyeblend_d.png": {
+    "normal": "maps/c_Helen_slg_eyeblend_d_n.png"
+  },
+  "c_HelenSSR0101_slg_cloth2_d.png": {
+    "normal": "maps/c_HelenSSR0101_slg_cloth2_d_n.png"
+  },
+  "c_HelenSSR0101_slg_Zuanshi_d.png": {
+    "normal": "maps/c_HelenSSR0101_slg_Zuanshi_d_n.png"
+  },
+  "c_HelenSSR0101_slg_hair_d.png": {
+    "normal": "maps/c_HelenSSR0101_slg_hair_d_n.png"
+  },
+  "c_HelenSSR0101_slg_cloth3_da.png": {
+    "normal": "maps/c_HelenSSR0101_slg_cloth3_da_n.png"
+  },
+  "cw_MP443_WL_d.png": {
+    "normal": "maps/cw_MP443_WL_d_n.png"
+  },
+  "extra.png": {
+    "normal": "maps/extra_n.png"
+  },
+  "c_HelenSSR0101_slg_body_d.png": {
+    "normal": "maps/c_HelenSSR0101_slg_body_d_n.png"
+  },
+  "c_HelenSSR0101_slg_P1_cloth_da.png": {
+    "normal": "maps/c_HelenSSR0101_slg_P1_cloth_da_n.png"
+  },
+  "c_HelenSSR0101_slg_P1_hand_d.png": {
+    "normal": "maps/c_HelenSSR0101_slg_P1_hand_d_n.png"
+  },
+  "c_HelenSSR0101_slg_zhijia_d.png": {
+    "normal": "maps/c_HelenSSR0101_slg_zhijia_d_n.png"
+  },
+  "c_HelenSSR0101_slg_P1_body_d.png": {
+    "normal": "maps/c_HelenSSR0101_slg_P1_body_d_n.png"
+  },
+  "c_HelenSSR0101_slg_cloth1_d.png": {
+    "normal": "maps/c_HelenSSR0101_slg_cloth1_d_n.png"
+  }
+}
