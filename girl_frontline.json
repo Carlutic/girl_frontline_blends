@@ -1,7 +1,7 @@
 [
  {
   "id": 82001,
-  "name": "Blend01_9745PBR",
+  "name": "Blend01",
   "displayName": "97皮肤部件4.5-PBR",
   "weaponType": "",
   "element": "GirlsFrontline",
@@ -15,7 +15,7 @@
  },
  {
   "id": 82002,
-  "name": "Blend02_2510012",
+  "name": "Blend02",
   "displayName": "海伦 - 星夜华尔兹",
   "weaponType": "",
   "element": "GirlsFrontline",
@@ -29,7 +29,7 @@
  },
  {
   "id": 82003,
-  "name": "Blend03_2510212",
+  "name": "Blend03",
   "displayName": "翡图萨 - 永夜花园的囚徒皮肤部件公配版",
   "weaponType": "",
   "element": "GirlsFrontline",
@@ -43,7 +43,7 @@
  },
  {
   "id": 82004,
-  "name": "Blend06_2602041",
+  "name": "Blend06",
   "displayName": "芙洛伦 - 翠雀媚",
   "weaponType": "",
   "element": "GirlsFrontline",
@@ -57,7 +57,7 @@
  },
  {
   "id": 82005,
-  "name": "Blend07_2602091",
+  "name": "Blend07",
   "displayName": "刘莳 - 东方有佳人",
   "weaponType": "",
   "element": "GirlsFrontline",
@@ -71,7 +71,7 @@
  },
  {
   "id": 82006,
-  "name": "Blend08_260324",
+  "name": "Blend08",
   "displayName": "杜莎妮 - 明日救星",
   "weaponType": "",
   "element": "GirlsFrontline",
@@ -85,7 +85,7 @@
  },
  {
   "id": 82007,
-  "name": "Blend10_2611132",
+  "name": "Blend10",
   "displayName": "贝丝蒂 - 波子汽水",
   "weaponType": "",
   "element": "GirlsFrontline",
