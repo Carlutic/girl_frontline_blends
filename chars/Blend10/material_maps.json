@@ -23,5 +23,8 @@
   },
   "extra.png": {
     "normal": "maps/extra_n.png"
+  },
+  "c_BastiSSR0101_slg_P1_cloth1_d.png": {
+    "normal": "maps/c_BastiSSR0101_slg_P1_cloth1_d_n.png"
   }
 }
