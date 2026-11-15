@@ -8,8 +8,8 @@
   "gender": "Female",
   "region": "",
   "rarity": 5,
-  "directory": "chars/Blend01_9745PBR",
-  "image": "Covers/Blend01_9745PBR.png",
+  "directory": "chars/Blend01",
+  "image": "Covers/Blend01.png",
   "pmx": "model.pmx",
   "base": "https://carlutic.github.io/girl_frontline_blends/"
  },
@@ -22,7 +22,7 @@
   "gender": "Female",
   "region": "",
   "rarity": 5,
-  "directory": "chars/Blend02_2510012",
+  "directory": "chars/Blend02",
   "image": "Covers/Blend02.png",
   "pmx": "model.pmx",
   "base": "https://carlutic.github.io/girl_frontline_blends/"
@@ -36,7 +36,7 @@
   "gender": "Female",
   "region": "",
   "rarity": 5,
-  "directory": "chars/Blend03_2510212",
+  "directory": "chars/Blend03",
   "image": "Covers/Blend03.png",
   "pmx": "model.pmx",
   "base": "https://carlutic.github.io/girl_frontline_blends/"
@@ -50,7 +50,7 @@
   "gender": "Female",
   "region": "",
   "rarity": 5,
-  "directory": "chars/Blend06_2602041",
+  "directory": "chars/Blend06",
   "image": "Covers/Blend06.png",
   "pmx": "model.pmx",
   "base": "https://carlutic.github.io/girl_frontline_blends/"
@@ -64,7 +64,7 @@
   "gender": "Female",
   "region": "",
   "rarity": 5,
-  "directory": "chars/Blend07_2602091",
+  "directory": "chars/Blend07",
   "image": "Covers/Blend07.png",
   "pmx": "model.pmx",
   "base": "https://carlutic.github.io/girl_frontline_blends/"
@@ -78,7 +78,7 @@
   "gender": "Female",
   "region": "",
   "rarity": 5,
-  "directory": "chars/Blend08_260324",
+  "directory": "chars/Blend08",
   "image": "Covers/Blend08.png",
   "pmx": "model.pmx",
   "base": "https://carlutic.github.io/girl_frontline_blends/"
@@ -92,7 +92,7 @@
   "gender": "Female",
   "region": "",
   "rarity": 5,
-  "directory": "chars/Blend10_2611132",
+  "directory": "chars/Blend10",
   "image": "Covers/Blend10.png",
   "pmx": "model.pmx",
   "base": "https://carlutic.github.io/girl_frontline_blends/"
